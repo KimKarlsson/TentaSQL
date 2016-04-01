@@ -1,0 +1,5 @@
+C:\Users\kim\Source\Repos\tentaSQL\Filmuthyrning\Filmuthyrning\bin\Debug\Filmuthyrning.dacpac
+C:\Users\kim\Source\Repos\tentaSQL\Filmuthyrning\Filmuthyrning\bin\Debug\Filmuthyrning.dll
+C:\Users\kim\Source\Repos\tentaSQL\Filmuthyrning\Filmuthyrning\bin\Debug\Filmuthyrning.pdb
+C:\Users\kim\Source\Repos\tentaSQL\Filmuthyrning\Filmuthyrning\obj\Debug\Filmuthyrning.dll
+C:\Users\kim\Source\Repos\tentaSQL\Filmuthyrning\Filmuthyrning\obj\Debug\Filmuthyrning.pdb

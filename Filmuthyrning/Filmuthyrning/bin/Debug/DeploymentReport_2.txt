@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       [dbo].[SPReturnMovieParamDate] (Procedure)
+       [Filmuthyrning] (Assembly)
+     Create
+       [Filmuthyrning] (Assembly)
+       [dbo].[SPReturnMovieParamDate] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[SPCustomerReturnParamCustomer] (Procedure)
+       [dbo].[SPGenreParamKategory] (Procedure)
+     Create
+       [dbo].[SPCustomerReturnParamCustomer] (Procedure)
+       [dbo].[SPGenreParamKategory] (Procedure)
